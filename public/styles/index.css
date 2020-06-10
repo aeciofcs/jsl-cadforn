@@ -1,0 +1,19 @@
+#page-home {
+    height: 100vh;
+    background: url("https://ik.imagekit.io/8c8j1jmrar/jsl_jW1UOL-MA.jpg") no-repeat;
+    background-position: 35vw center;
+    background-color: rgb(113, 168, 190);
+}
+
+#page-home header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#page-home .content {
+    width: 90%;
+    max-width: 1100px;
+
+    margin: 0 auto;
+}
